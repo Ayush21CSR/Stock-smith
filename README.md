@@ -92,12 +92,6 @@ The backend services will be running after executing the `docker-compose up` com
 
 The services are exposed through an Nginx gateway.
 
-## Authors
-
--   **Animesh** - *Backend* - [Animesh-X](https://github.com/Animesh-X)
--   **Aryan** - *Machine Learning* - [Aryan-Choudhari](https://github.com/Aryan-Choudhari)
--   **Ayush** - *Frontend* - [Ayush583-Aswal](https://github.com/Ayush583-Aswal)
--   **Nitin** - *Frontend* - [Gitstar12345](https://github.com/Gitstar12345)
 
 ## License
 
